@@ -4,7 +4,8 @@
   "description": "Starter Template View Node JS",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index"
+    "start": "node index",
+    "nodemon": "nodemon index"
   },
   "keywords": [],
   "author": "",
